@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/binder/binder.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/binder/binder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/conversion/conversion.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/conversion/conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch10/css/css.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch10/css/css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch09/dom-manipulation/dom-manipulation.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch09/dom-manipulation/dom-manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch06/grid/grid.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch06/grid/grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch04/input-components/input-components.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch04/input-components/input-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch04/interaction-components/interaction-components.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch04/interaction-components/interaction-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/jakarta-bean-validation/jakarta-bean-validation.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/jakarta-bean-validation/jakarta-bean-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch13/jakarta-ee/jakarta-ee.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch13/jakarta-ee/jakarta-ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch09/javascript-integration/javascript-integration.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch09/javascript-integration/javascript-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch03/layouts/layouts.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch03/layouts/layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/manual-binding/manual-binding.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/manual-binding/manual-binding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch08/manual-push/manual-push.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch08/manual-push/manual-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch02/my-first-vaadin-app/my-first-vaadin-app.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch02/my-first-vaadin-app/my-first-vaadin-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch07/navigation-lifecycle/navigation-lifecycle.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch07/navigation-lifecycle/navigation-lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/nested-properties/nested-properties.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/nested-properties/nested-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch08/no-push/no-push.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch08/no-push/no-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/practical-vaadin.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/practical-vaadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch10/responsiveness/responsiveness.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch10/responsiveness/responsiveness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch07/routes/routes.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch07/routes/routes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch12/spring/spring.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch12/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch10/themes/themes.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch10/themes/themes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch08/thread-experiment/thread-experiment.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch08/thread-experiment/thread-experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch08/thread-pool/thread-pool.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch08/thread-pool/thread-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch07/url-parameters/url-parameters.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch07/url-parameters/url-parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch11/vaadin-fusion/vaadin-fusion.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch11/vaadin-fusion/vaadin-fusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch05/validation/validation.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch05/validation/validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch04/visualization-components/visualization-components.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch04/visualization-components/visualization-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch02/welcome-to-vaadin/welcome-to-vaadin.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch02/welcome-to-vaadin/welcome-to-vaadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practical-vaadin-master/ch08/with-push/with-push.iml" filepath="$PROJECT_DIR$/practical-vaadin-master/ch08/with-push/with-push.iml" />
+    </modules>
+  </component>
+</project>

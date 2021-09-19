@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javascript-integration" />
+        <module name="visualization-components" />
+        <module name="css" />
+        <module name="layouts" />
+        <module name="responsiveness" />
+        <module name="spring" />
+        <module name="routes" />
+        <module name="themes" />
+        <module name="jakarta-ee" />
+        <module name="vaadin-fusion" />
+        <module name="binder" />
+        <module name="dom-manipulation" />
+        <module name="validation" />
+        <module name="jakarta-bean-validation" />
+        <module name="conversion" />
+        <module name="interaction-components" />
+        <module name="no-push" />
+        <module name="my-first-vaadin-app" />
+        <module name="with-push" />
+        <module name="thread-pool" />
+        <module name="navigation-lifecycle" />
+        <module name="input-components" />
+        <module name="welcome-to-vaadin" />
+        <module name="grid" />
+        <module name="thread-experiment" />
+        <module name="nested-properties" />
+        <module name="manual-push" />
+        <module name="url-parameters" />
+        <module name="manual-binding" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="binder" target="16" />
+      <module name="conversion" target="16" />
+      <module name="css" target="16" />
+      <module name="dom-manipulation" target="16" />
+      <module name="grid" target="16" />
+      <module name="input-components" target="16" />
+      <module name="interaction-components" target="16" />
+      <module name="jakarta-bean-validation" target="16" />
+      <module name="jakarta-ee" target="16" />
+      <module name="javascript-integration" target="16" />
+      <module name="layouts" target="16" />
+      <module name="manual-binding" target="16" />
+      <module name="manual-push" target="16" />
+      <module name="my-first-vaadin-app" target="16" />
+      <module name="navigation-lifecycle" target="16" />
+      <module name="nested-properties" target="16" />
+      <module name="no-push" target="16" />
+      <module name="practical-vaadin" target="1.5" />
+      <module name="responsiveness" target="16" />
+      <module name="routes" target="16" />
+      <module name="spring" target="1.5" />
+      <module name="themes" target="16" />
+      <module name="thread-experiment" target="16" />
+      <module name="thread-pool" target="16" />
+      <module name="url-parameters" target="16" />
+      <module name="vaadin-fusion" target="16" />
+      <module name="validation" target="16" />
+      <module name="visualization-components" target="16" />
+      <module name="welcome-to-vaadin" target="16" />
+      <module name="with-push" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
